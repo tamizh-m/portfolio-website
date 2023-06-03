@@ -386,7 +386,7 @@ body::-webkit-scrollbar {
 
 @media screen and (max-width: 480px) {
   .text {
-    font-size: large;
+    font-size: larger;
   }
 
   .intro {
@@ -399,8 +399,8 @@ body::-webkit-scrollbar {
   }
 
   .profile-pic {
-    height: 35vh
-     0vh;
+    height: 25vh;
+
   }
 
   .column {
