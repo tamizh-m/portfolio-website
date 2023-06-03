@@ -384,7 +384,7 @@ body::-webkit-scrollbar {
   display: none;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 625px) {
   .text {
     font-size: small;
   }
