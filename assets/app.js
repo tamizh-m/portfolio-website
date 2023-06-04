@@ -83,7 +83,7 @@ function callback(mutationList) {
     mutationList.forEach(function (mutation) {
         if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
             if (mutation.target.className.endsWith('show')) {
-                document.getElementById("experience").style.height = "200vh"
+                document.getElementById("experience").style.height = "170vh"
             } else {
                 document.getElementById("experience").style.height = "100vh"
             }
