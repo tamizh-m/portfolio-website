@@ -386,7 +386,7 @@ body::-webkit-scrollbar {
 
 @media screen and (max-width: 480px) {
   .text {
-    font-size: larger;
+    font-size: xx-large;
   }
 
   .intro {
